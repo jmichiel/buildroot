@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_CONTEXTLIB2
+	bool "python-contextlib2"
+	help
+	  Backports and enhancements for the contextlib module
+
+	  http://contextlib2.readthedocs.org/
