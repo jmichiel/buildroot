@@ -4,9 +4,9 @@
 #
 ################################################################################
 
-PYTHON_PORTEND_VERSION = 1.8
+PYTHON_PORTEND_VERSION = 2.3
 PYTHON_PORTEND_SOURCE = portend-$(PYTHON_PORTEND_VERSION).tar.gz
-PYTHON_PORTEND_SITE = https://pypi.python.org/packages/3f/37/f3ab6c4a00632d53d7dfb74ba4a695e86605b92b0a94bd41fa443b60ccb6
+PYTHON_PORTEND_SITE = https://files.pythonhosted.org/packages/ab/8f/70f5babd4a6a7c6a471e834c53be3ee3c89a6b3b16d6a85b2d25f2dc2671
 PYTHON_PORTEND_LICENSE = MIT
 PYTHON_PORTEND_SETUP_TYPE = setuptools
 PYTHON_PORTEND_DEPENDENCIES = host-python-setuptools-scm
